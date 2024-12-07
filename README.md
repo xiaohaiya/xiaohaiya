@@ -40,5 +40,3 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xiaohaiya/img&type=Date)](https://star-history.com/#xiaohaiya/img&Date)
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
